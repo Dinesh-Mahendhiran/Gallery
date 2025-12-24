@@ -23,7 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
-{% load static %}
+```{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,7 +120,10 @@ updateGallery( );
 </script>
 </body>
 </html>
+```
+
 # OUTPUT:
+
 <img width="1035" height="662" alt="image" src="https://github.com/user-attachments/assets/01f2e4ac-4ffe-4d00-bca8-fc8267daf2fa" />
 <img width="1034" height="580" alt="image" src="https://github.com/user-attachments/assets/7a302848-488d-40e6-82b5-63585f53c0a1" />
 <img width="1031" height="595" alt="image" src="https://github.com/user-attachments/assets/b7e3acb2-658e-4d2f-874d-105c0d971466" />
